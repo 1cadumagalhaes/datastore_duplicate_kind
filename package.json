@@ -1,0 +1,21 @@
+{
+  "name": "duplicate_kind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1cadumagalhaes/datastore_duplicate_kind.git"
+  },
+  "keywords": [
+    "datastore"
+  ],
+  "author": "1cadumagalhaes",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/datastore": "^6.5.0"
+  }
+}
